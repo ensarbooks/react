@@ -1,1 +1,1 @@
-# raect
+# react, javascript, typescript, html/css
